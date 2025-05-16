@@ -1,0 +1,4 @@
+1. El servicio "Signup - Usuario nuevo" permite crear nuevos usuarios satisfactoriamente.
+2. El servicio "Signup - Usuario duplicado" valida si existe el usuario, en caso de que si, envía un error.
+3. El servicio "Login - Ok" genera un token de acceso, siempre y cuando las credenciales sean válidas
+4. El servicio "Login - Failed" devuelve un mensaje de error si las credenciales son inválidas
